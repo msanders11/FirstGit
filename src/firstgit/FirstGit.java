@@ -13,6 +13,10 @@ public class FirstGit {
         System.out.println("Hello");
         int x = 5;
         int y = 6;
+
+        for (int i = 0; i < 3; i++) {
+            System.out.println("The count is " + i);
+        }
     }
-    
+
 }
