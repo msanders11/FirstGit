@@ -17,6 +17,8 @@ public class FirstGit {
         for (int i = 0; i < 3; i++) {
             System.out.println("The count is " + i);
         }
+        
+        int z = 0;
     }
 
 }
